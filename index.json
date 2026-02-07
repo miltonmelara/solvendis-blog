@@ -5,9 +5,9 @@
     "date": "2026-02-07",
     "lang": "en",
     "summary": "Two funding moves show infrastructure, not demos, is now deciding cost, speed, and scale in AI and robotics.",
-    "coverImage": "https://raw.githubusercontent.com/yourname/solvendis-blog/main/images/2026-02-07-something-quiet-robotics-ai-cover.png",
-    "contentUrl": "https://raw.githubusercontent.com/yourname/solvendis-blog/main/posts/2026-02-07-something-quiet-robotics-ai.en.md",
-    "baseUrl": "https://raw.githubusercontent.com/yourname/solvendis-blog/main/"
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-07-something-quiet-robotics-ai-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-07-something-quiet-robotics-ai.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
   },
   {
     "slug": "2026-02-07-something-quiet-robotics-ai",
@@ -15,8 +15,8 @@
     "date": "2026-02-07",
     "lang": "es",
     "summary": "Dos rondas de inversión muestran que la infraestructura, no las demos, ya está definiendo costos, velocidad y escala en IA y robótica.",
-    "coverImage": "https://raw.githubusercontent.com/yourname/solvendis-blog/main/images/2026-02-07-something-quiet-robotics-ai-cover.png",
-    "contentUrl": "https://raw.githubusercontent.com/yourname/solvendis-blog/main/posts/2026-02-07-something-quiet-robotics-ai.es.md",
-    "baseUrl": "https://raw.githubusercontent.com/yourname/solvendis-blog/main/"
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-07-something-quiet-robotics-ai-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-07-something-quiet-robotics-ai.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
   }
 ]
