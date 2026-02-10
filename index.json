@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-02-10-ai-work-scale",
+    "title": "AI Didn’t Break Work. It Exposed What Was Never Designed to Scale.",
+    "date": "2026-02-10",
+    "lang": "en",
+    "summary": "AI raises throughput faster than decision systems can adapt, turning capacity into pressure and humans into bottlenecks.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-10-ai-work-scale-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-10-ai-work-scale.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-10-ai-work-scale",
+    "title": "La IA No Arruinó el Trabajo. Expuso Lo Que Nunca Fue Diseñado para Escalar.",
+    "date": "2026-02-10",
+    "lang": "es",
+    "summary": "La IA eleva el throughput más rápido de lo que los sistemas de decisión se adaptan, y la capacidad se convierte en presión.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-10-ai-work-scale-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-10-ai-work-scale.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-02-10-saas-interface",
     "title": "SaaS Isn’t Dying. Its Interface Is.",
     "date": "2026-02-10",
