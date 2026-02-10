@@ -20,23 +20,23 @@
     "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
   },
   {
-    "slug": "2026-02-10-saas-interface",
+    "slug": "2026-02-09-saas-interface",
     "title": "SaaS Isn’t Dying. Its Interface Is.",
-    "date": "2026-02-10",
+    "date": "2026-02-09",
     "lang": "en",
     "summary": "Language-based control erodes UI lock-in, leaving raw capability as the real differentiator for SaaS.",
-    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-10-saas-interface-cover.png",
-    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-10-saas-interface.en.md",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-09-saas-interface-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-09-saas-interface.en.md",
     "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
   },
   {
-    "slug": "2026-02-10-saas-interface",
+    "slug": "2026-02-09-saas-interface",
     "title": "El SaaS No Está Muriendo. Su Interfaz Sí.",
-    "date": "2026-02-10",
+    "date": "2026-02-09",
     "lang": "es",
     "summary": "El control por lenguaje elimina el bloqueo por interfaz y deja la capacidad como el verdadero diferenciador del SaaS.",
-    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-10-saas-interface-cover.png",
-    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-10-saas-interface.es.md",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-09-saas-interface-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-09-saas-interface.es.md",
     "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
   },
   {
