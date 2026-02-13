@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-02-13-enterprise-ai-crossed-line",
+    "title": "Enterprise AI Just Crossed the Line",
+    "date": "2026-02-13",
+    "lang": "en",
+    "summary": "Enterprise AI has shifted from pilots to budgeted infrastructure, creating a compounding operational gap between adopters and laggards.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-13-enterprise-ai-crossed-line-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-13-enterprise-ai-crossed-line.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-13-enterprise-ai-crossed-line",
+    "title": "La IA Empresarial Acaba de Cruzar la Línea",
+    "date": "2026-02-13",
+    "lang": "es",
+    "summary": "La IA empresarial pasó de pilotos a infraestructura presupuestada, abriendo una brecha operativa que se acumula con el tiempo.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-13-enterprise-ai-crossed-line-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-13-enterprise-ai-crossed-line.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-02-12-compounding-gap-automated-manual-companies",
     "title": "The Compounding Gap Between Automated and Manual Companies",
     "date": "2026-02-12",
