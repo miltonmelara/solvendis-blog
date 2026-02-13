@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-02-12-compounding-gap-automated-manual-companies",
+    "title": "The Compounding Gap Between Automated and Manual Companies",
+    "date": "2026-02-12",
+    "lang": "en",
+    "summary": "Automation-first operating models compound speed, margin, and iteration while manual-first companies compound coordination drag.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-12-compounding-gap-automated-manual-companies-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-12-compounding-gap-automated-manual-companies.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-12-compounding-gap-automated-manual-companies",
+    "title": "La Brecha Compuesta Entre Empresas Automatizadas y Manuales",
+    "date": "2026-02-12",
+    "lang": "es",
+    "summary": "Los modelos automation-first componen velocidad y margen, mientras las empresas manual-first componen fricción operativa.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-12-compounding-gap-automated-manual-companies-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-12-compounding-gap-automated-manual-companies.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-02-11-minimum-viable-team",
     "title": "The Minimum Viable Team Just Shrunk. Most CEOs Haven’t Noticed Yet.",
     "date": "2026-02-11",
