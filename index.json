@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-02-15-real-ai-bottleneck-efficiency",
+    "title": "The Real AI Bottleneck Isn’t Intelligence. It’s Efficiency.",
+    "date": "2026-02-15",
+    "lang": "en",
+    "summary": "As AI scales, operational efficiency and energy-like workflow losses are becoming the real constraint, not model intelligence.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-15-real-ai-bottleneck-efficiency-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-15-real-ai-bottleneck-efficiency.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-15-real-ai-bottleneck-efficiency",
+    "title": "El Verdadero Cuello de Botella en la IA No Es la Inteligencia. Es la Eficiencia.",
+    "date": "2026-02-15",
+    "lang": "es",
+    "summary": "A escala, el cuello de botella en IA pasa de la inteligencia a la eficiencia operativa y a las pérdidas silenciosas en ejecución.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-15-real-ai-bottleneck-efficiency-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-15-real-ai-bottleneck-efficiency.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-02-14-governments-funding-automation-manual-disadvantage",
     "title": "When Governments Start Funding Automation, Staying Manual Becomes a Structural Disadvantage",
     "date": "2026-02-14",
