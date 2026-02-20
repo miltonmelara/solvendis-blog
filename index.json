@@ -1,5 +1,45 @@
 [
   {
+    "slug": "2026-02-20-ai-race-moved-to-deployment",
+    "title": "The AI Race Has Moved to Deployment",
+    "date": "2026-02-20",
+    "lang": "en",
+    "summary": "Capital is shifting from frontier models to workflow integration, making deployment speed the new source of margin advantage.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-20-ai-race-moved-to-deployment-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-20-ai-race-moved-to-deployment.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-20-ai-race-moved-to-deployment",
+    "title": "La Carrera de la IA Se Ha Movido al Despliegue",
+    "date": "2026-02-20",
+    "lang": "es",
+    "summary": "El capital se mueve de modelos frontier a integración operativa, y la velocidad de despliegue se vuelve ventaja de margen.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-20-ai-race-moved-to-deployment-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-20-ai-race-moved-to-deployment.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-19-ai-replacing-reconciliation-time",
+    "title": "AI Is Not Replacing Jobs. It’s Replacing Reconciliation Time.",
+    "date": "2026-02-19",
+    "lang": "en",
+    "summary": "AI is moving into settlement and reconciliation workflows, reducing cycle time and quietly compounding margin advantages.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-19-ai-replacing-reconciliation-time-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-19-ai-replacing-reconciliation-time.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-19-ai-replacing-reconciliation-time",
+    "title": "La IA No Está Reemplazando Empleos. Está Reemplazando el Tiempo de Conciliación.",
+    "date": "2026-02-19",
+    "lang": "es",
+    "summary": "La IA está entrando en liquidación y conciliación financiera, reduciendo tiempos de ciclo y acumulando ventajas de margen.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-19-ai-replacing-reconciliation-time-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-19-ai-replacing-reconciliation-time.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-02-15-real-ai-bottleneck-efficiency",
     "title": "The Real AI Bottleneck Isn’t Intelligence. It’s Efficiency.",
     "date": "2026-02-15",
