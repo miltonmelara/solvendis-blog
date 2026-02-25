@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-02-24-10m-90-days-new-baseline",
+    "title": "$10M in 90 Days Is the New Baseline",
+    "date": "2026-02-24",
+    "lang": "en",
+    "summary": "Stripe data suggests a structural acceleration: AI-native companies are compressing time-to-revenue and redefining the baseline for growth speed.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-24-10m-90-days-new-baseline-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-24-10m-90-days-new-baseline.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-24-10m-90-days-new-baseline",
+    "title": "$10M en 90 Días Es el Nuevo Punto de Partida",
+    "date": "2026-02-24",
+    "lang": "es",
+    "summary": "Los datos de Stripe muestran una aceleración estructural: las empresas nativas en IA comprimen el tiempo a ingresos y cambian el estándar de velocidad.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-24-10m-90-days-new-baseline-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-24-10m-90-days-new-baseline.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-02-20-ai-race-moved-to-deployment",
     "title": "The AI Race Has Moved to Deployment",
     "date": "2026-02-20",
