@@ -1,5 +1,45 @@
 [
   {
+    "slug": "2026-02-27-ai-infrastructure-control-risk",
+    "title": "When AI Becomes Infrastructure, Control Becomes the Real Risk",
+    "date": "2026-02-27",
+    "lang": "en",
+    "summary": "As AI becomes infrastructure, the strategic risk shifts from model capability to vendor control and integration resilience.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-27-ai-infrastructure-control-risk-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-27-ai-infrastructure-control-risk.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-27-ai-infrastructure-control-risk",
+    "title": "Cuando la IA se Convierte en Infraestructura, el Control se Vuelve el Riesgo Real",
+    "date": "2026-02-27",
+    "lang": "es",
+    "summary": "Al volverse infraestructura, el riesgo clave de la IA pasa de capacidad del modelo a control del proveedor y resiliencia de integración.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-27-ai-infrastructure-control-risk-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-27-ai-infrastructure-control-risk.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-26-ai-doesnt-fail-companies-do",
+    "title": "AI Doesn’t Fail. Companies Do.",
+    "date": "2026-02-26",
+    "lang": "en",
+    "summary": "As model capability matures, enterprise results depend less on AI quality and more on workflow integration capacity.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-26-ai-doesnt-fail-companies-do-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-26-ai-doesnt-fail-companies-do.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-02-26-ai-doesnt-fail-companies-do",
+    "title": "La IA No Falla. Las Empresas Sí.",
+    "date": "2026-02-26",
+    "lang": "es",
+    "summary": "Con modelos cada vez más potentes, el resultado empresarial depende de integrar la IA en flujos operativos, no solo de probar herramientas.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-02-26-ai-doesnt-fail-companies-do-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-02-26-ai-doesnt-fail-companies-do.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-02-25-service-business-becoming-software",
     "title": "The Service Business Is Becoming Software",
     "date": "2026-02-25",
