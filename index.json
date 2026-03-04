@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-03-03-tech-stack-too-complex-to-trust",
+    "title": "Your Tech Stack Is Already Too Complex to Trust",
+    "date": "2026-03-03",
+    "lang": "en",
+    "summary": "Modern stacks can silently degrade after small changes, making system visibility and workflow integrity a core operating advantage.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-03-tech-stack-too-complex-to-trust-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-03-tech-stack-too-complex-to-trust.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-03-tech-stack-too-complex-to-trust",
+    "title": "Tu Stack Tecnológico Ya Es Demasiado Complejo Para Confiar En Él",
+    "date": "2026-03-03",
+    "lang": "es",
+    "summary": "Los stacks modernos pueden degradarse en silencio; la visibilidad de sistemas y la integridad del workflow ya son ventaja operativa.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-03-tech-stack-too-complex-to-trust-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-03-tech-stack-too-complex-to-trust.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-02-market-rewarded-replacing-4000-with-ai",
     "title": "The Market Just Rewarded Replacing 4,000 People With AI",
     "date": "2026-03-02",
