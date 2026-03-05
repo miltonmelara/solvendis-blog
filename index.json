@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-03-04-customer-support-zero-marginal-cost",
+    "title": "Customer Support Is Becoming a Zero-Marginal-Cost Department",
+    "date": "2026-03-04",
+    "lang": "en",
+    "summary": "AI concierge agents are pushing support toward near-zero marginal cost on routine requests while humans focus on complex judgment.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-04-customer-support-zero-marginal-cost-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-04-customer-support-zero-marginal-cost.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-04-customer-support-zero-marginal-cost",
+    "title": "Atención al Cliente Se Está Convirtiendo en un Departamento de Costo Marginal Casi Cero",
+    "date": "2026-03-04",
+    "lang": "es",
+    "summary": "Los agentes de IA están llevando soporte a costo marginal casi cero en tareas rutinarias, con humanos enfocados en casos complejos.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-04-customer-support-zero-marginal-cost-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-04-customer-support-zero-marginal-cost.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-03-tech-stack-too-complex-to-trust",
     "title": "Your Tech Stack Is Already Too Complex to Trust",
     "date": "2026-03-03",
