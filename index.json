@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-03-05-ai-agents-replacing-expensive-workflows",
+    "title": "AI Agents Are Quietly Replacing Expensive Human Workflows",
+    "date": "2026-03-05",
+    "lang": "en",
+    "summary": "AI agents are compressing high-cost knowledge workflows into automated systems, shifting labor-heavy work toward machine execution.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-05-ai-agents-replacing-expensive-workflows-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-05-ai-agents-replacing-expensive-workflows.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-05-ai-agents-replacing-expensive-workflows",
+    "title": "Los Agentes de IA Están Reemplazando Silenciosamente Flujos de Trabajo Humanos Costosos",
+    "date": "2026-03-05",
+    "lang": "es",
+    "summary": "Los agentes de IA están comprimiendo workflows de alto costo y trasladando ejecución repetitiva de equipos humanos a sistemas automatizados.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-05-ai-agents-replacing-expensive-workflows-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-05-ai-agents-replacing-expensive-workflows.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-04-customer-support-zero-marginal-cost",
     "title": "Customer Support Is Becoming a Zero-Marginal-Cost Department",
     "date": "2026-03-04",
