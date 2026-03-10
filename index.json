@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-03-09-ai-adoption-bottleneck-control",
+    "title": "The Hidden Bottleneck in AI Adoption Isn’t Capability. It’s Control.",
+    "date": "2026-03-09",
+    "lang": "en",
+    "summary": "As AI agents move into core workflows, adoption hinges less on model capability and more on control, permissions, and operational trust.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-09-ai-adoption-bottleneck-control-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-09-ai-adoption-bottleneck-control.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-09-ai-adoption-bottleneck-control",
+    "title": "El Verdadero Cuello de Botella de la IA No Es la Capacidad. Es el Control.",
+    "date": "2026-03-09",
+    "lang": "es",
+    "summary": "A medida que los agentes de IA entran en flujos críticos, la adopción depende más del control y los permisos que de la capacidad del modelo.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-09-ai-adoption-bottleneck-control-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-09-ai-adoption-bottleneck-control.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-05-ai-agents-replacing-expensive-workflows",
     "title": "AI Agents Are Quietly Replacing Expensive Human Workflows",
     "date": "2026-03-05",
