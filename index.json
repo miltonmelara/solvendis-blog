@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-03-15-32-billion-signal-business-owners-missing",
+    "title": "The $32 Billion Signal Most Business Owners Are Missing",
+    "date": "2026-03-15",
+    "lang": "en",
+    "summary": "Google's Wiz acquisition points past cybersecurity and toward the growing need to secure and control AI-driven operational infrastructure.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-15-32-billion-signal-business-owners-missing-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-15-32-billion-signal-business-owners-missing.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-15-32-billion-signal-business-owners-missing",
+    "title": "La señal de $32 mil millones que la mayoría de los dueños de negocios está pasando por alto",
+    "date": "2026-03-15",
+    "lang": "es",
+    "summary": "La compra de Wiz por Google apunta más allá de la ciberseguridad y señala la necesidad de controlar la infraestructura operativa impulsada por IA.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-15-32-billion-signal-business-owners-missing-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-15-32-billion-signal-business-owners-missing.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-11-software-becoming-workforce",
     "title": "Your Business Software Is Quietly Becoming a Workforce",
     "date": "2026-03-11",
