@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-03-19-margins-bleeding-upstream",
+    "title": "While Everyone’s Playing With AI Content… Your Margins Are Bleeding Upstream",
+    "date": "2026-03-19",
+    "lang": "en",
+    "summary": "The deeper AI advantage is shifting from content automation to fixing coordination delays, workflow latency, and upstream operational drag.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-19-margins-bleeding-upstream-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-19-margins-bleeding-upstream.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-19-margins-bleeding-upstream",
+    "title": "Mientras Todos Juegan con Contenido de IA… Tus Márgenes se Están Fugando Aguas Arriba",
+    "date": "2026-03-19",
+    "lang": "es",
+    "summary": "La ventaja real de IA se está moviendo de contenido a corregir retrasos de coordinación, fricción operativa y tiempo perdido aguas arriba.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-19-margins-bleeding-upstream-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-19-margins-bleeding-upstream.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-17-marketing-no-longer-team-system-deploy",
     "title": "Marketing Is No Longer a Team—It’s a System You Deploy",
     "date": "2026-03-17",
