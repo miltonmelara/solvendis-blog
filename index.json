@@ -1,5 +1,45 @@
 [
   {
+    "slug": "2026-03-23-business-one-document-away-replaced",
+    "title": "Your Business Is One Document Away From Being Replaced",
+    "date": "2026-03-23",
+    "lang": "en",
+    "summary": "The moment a workflow is clearly documented, it becomes executable by software rather than dependent on human coordination.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-23-business-one-document-away-replaced-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-23-business-one-document-away-replaced.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-23-business-one-document-away-replaced",
+    "title": "Tu Negocio Está a Un Documento de Ser Reemplazado",
+    "date": "2026-03-23",
+    "lang": "es",
+    "summary": "Cuando un workflow queda claramente documentado, deja de depender de coordinación humana y se vuelve ejecutable por sistemas.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-23-business-one-document-away-replaced-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-23-business-one-document-away-replaced.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-22-most-dangerous-ai-risk-false-confidence",
+    "title": "The Most Dangerous AI Risk Isn’t Failure — It’s False Confidence",
+    "date": "2026-03-22",
+    "lang": "en",
+    "summary": "The deeper AI risk is not failure but false confidence: polished outputs built on processes that were never actually verified.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-22-most-dangerous-ai-risk-false-confidence-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-22-most-dangerous-ai-risk-false-confidence.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-03-22-most-dangerous-ai-risk-false-confidence",
+    "title": "El Riesgo Más Peligroso de la IA No Es Fallar — Es la Falsa Confianza",
+    "date": "2026-03-22",
+    "lang": "es",
+    "summary": "El mayor riesgo no es que la IA falle, sino confiar en outputs pulidos construidos sobre procesos que nunca se verificaron.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-03-22-most-dangerous-ai-risk-false-confidence-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-03-22-most-dangerous-ai-risk-false-confidence.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-21-automation-that-lies-more-dangerous",
     "title": "Automation That Lies Is More Dangerous Than No Automation At All",
     "date": "2026-03-21",
