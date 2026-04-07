@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-04-06-1-8b-company-run-by-2-people-right-now",
+    "title": "A $1.8B Company Is Being Run by 2 People Right Now",
+    "date": "2026-04-06",
+    "lang": "en",
+    "summary": "The real shift is not optimizing operations with AI, but removing whole layers of coordination so the system carries the work.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-04-06-1-8b-company-run-by-2-people-right-now-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-04-06-1-8b-company-run-by-2-people-right-now.en.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
+    "slug": "2026-04-06-1-8b-company-run-by-2-people-right-now",
+    "title": "Una empresa de $1.8B está siendo operada por 2 personas ahora mismo",
+    "date": "2026-04-06",
+    "lang": "es",
+    "summary": "El cambio real no es optimizar operaciones con IA, sino eliminar capas completas de coordinación para que el sistema cargue el trabajo.",
+    "coverImage": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/images/2026-04-06-1-8b-company-run-by-2-people-right-now-cover.png",
+    "contentUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/posts/2026-04-06-1-8b-company-run-by-2-people-right-now.es.md",
+    "baseUrl": "https://raw.githubusercontent.com/miltonmelara/solvendis-blog/main/"
+  },
+  {
     "slug": "2026-03-23-business-one-document-away-replaced",
     "title": "Your Business Is One Document Away From Being Replaced",
     "date": "2026-03-23",
